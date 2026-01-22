@@ -1,4 +1,4 @@
-#  Experiment 2 (2.1 - 2.4) | React UI using Bootstrap & Material UI
+#  Experiment 2 | React UI using Bootstrap & Material UI
 
 ## Project Name
 **Experiment 2 - UI Development using React Component Libraries**
